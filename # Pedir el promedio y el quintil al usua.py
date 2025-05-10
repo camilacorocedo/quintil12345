@@ -35,4 +35,4 @@ matricula_final = matricula * (1 - descuento_matricula)
 
 # Mostrar los resultados
 print(f"\nEl valor del arancel es: {int(arancel_final)}")
-print(f"El valor de la matrícula es: {int(matricula_final)}")6
+print(f"El valor de la matrícula es: {int(matricula_final)}")
